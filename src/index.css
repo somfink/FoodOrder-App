@@ -12,4 +12,15 @@ body {
   margin: 0;
   background-color: #3f3f3f;
 }
+@media (max-width: 768px) {
+  html {
+    font-size: 62.5%;
+  }
+}
+
+@media (max-width: 340px) {
+  html {
+    font-size: 50%;
+  }
+}
 
