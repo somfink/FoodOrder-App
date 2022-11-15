@@ -1,4 +1,7 @@
 ﻿# FoodOrder-App
+ 
+ A food ordering app designed to use React's basic hooks. 
+ It allows you to add the meal you want to order to your cart, display a modal and add or remove meals in it.
 
 # Getting Started with Create React App
 
